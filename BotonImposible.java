@@ -42,7 +42,7 @@ public class BotonImposible extends JFrame {
 	
 	private void initComponents() {
 		titleLbl = new JLabel("¿Me regalas un follow en TikTok?");
-		userLbl = new JLabel("@jalagunam");
+		userLbl = new JLabel("@albertolagunam");
 		yesBtn = new JButton("Por supuesto!");
 		noBtn = new JButton("No quiero :(");
 		panel = new JPanel();
