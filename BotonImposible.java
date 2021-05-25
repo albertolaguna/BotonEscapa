@@ -30,7 +30,7 @@ public class BotonImposible extends JFrame {
 	private Font buttonFont;
 	private Random random;
 	
-	public PrincipalWindow() {
+	public BotonImposible() {
 		initComponents();
 		buildWindow();
 		setButtonActions();
