@@ -6,5 +6,6 @@ public class App {
 	public static void main(String[] args) {
 		PrincipalWindow window = new PrincipalWindow();
 		window.setVisible(true);
+		lkfdsjaflk
 	}
 }
